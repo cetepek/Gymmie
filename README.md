@@ -1,3 +1,3 @@
 # Gymmie
 Gym app for iOS
-for contacting gymmiesgmail.com
+for contacting gymmies@gmail.com
