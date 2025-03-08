@@ -1,6 +1,6 @@
-# Gymmie
+# Vigor
 Gym app for iOS
 
-contacting gymmies.track@gmail.com
+contacting 2025vigor@gmail.com
 
 please make an issue if needed
